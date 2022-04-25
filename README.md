@@ -11,11 +11,10 @@ One stop Shop is an e-commerce application that allows users to shop for various
 ## Table of Contents
 
 * [Deployed Application](#deployed-application)
-* [User Story](#user-story)
 * [Usage](#usage)
 * [License](#license)
 * [Available-Scripts](#available-scripts)
-* [Learn-More](#learn-more)
+
 * [Contributing](#contributing)
 * [Questions](#questions)
 
@@ -26,23 +25,6 @@ One stop Shop is an e-commerce application that allows users to shop for various
 
 https://dashboard.heroku.com/apps/redux-shop-app/deploy/github<br />
 
-## User Story
-
-AS a senior engineer working on an e-commerce platform<br />
-I WANT my platform to use Redux to manage global state instead of the Context API<br />
-SO THAT my website's state management is taken out of the React ecosystem<br />
-
-GIVEN an e-commerce platform that uses Redux to manage global state<br />
-WHEN I review the app’s store<br />
-THEN I find that the app uses a Redux store instead of the Context API<br />
-WHEN I review the way the React front end accesses the store<br />
-THEN I find that the app uses a Redux provider<br />
-WHEN I review the way the app determines changes to its global state<br />
-THEN I find that the app passes reducers to a Redux store instead of using the Context API<br />
-WHEN I review the way the app extracts state data from the store<br />
-THEN I find that the app uses Redux instead of the Context API<br />
-WHEN I review the way the app dispatches actions<br />
-THEN I find that the app uses Redux instead of the Context API<br />
 
 
 ## Usage
@@ -90,27 +72,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
 ### Deployment
 
